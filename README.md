@@ -23,5 +23,6 @@ Compare this with the following methods
 ## Test on CIFAR10 -> CIFAR10C tasks  ##
 ```
 cd cifar
-git+https://github.com/Cadezzyr/PAINT.git``` 
+git+https://github.com/Cadezzyr/PAINT.git
+``` 
 
