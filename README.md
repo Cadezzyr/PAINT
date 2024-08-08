@@ -11,8 +11,8 @@ On the following tasks
 + ImageNet -> ImageNetR(standard)
 
 Compare this with the following methods
-+ CoTTA
-+ ETA
++ [CoTTA](https://arxiv.org/abs/2203.13591)
++ [ETA](https://arxiv.org/abs/2204.02610)
 + CPL
 + RMT
 + SAR
