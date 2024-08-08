@@ -19,7 +19,7 @@ Compare this with the following methods
 + PAINT
 
 ## Install ##
-```git+https://github.com/Cadezzyr/PAINT.git```  
+```git clone https://github.com/Cadezzyr/PAINT.git```  
 ## Test on CIFAR10 -> CIFAR10C tasks (standard/gradual/shuffle) ##
 ```
 cd cifar
