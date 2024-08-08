@@ -20,4 +20,8 @@ Compare this with the following methods
 
 ## Install ##
 ```git+https://github.com/Cadezzyr/PAINT.git```  
+## Test on CIFAR10 -> CIFAR10C tasks  ##
+```
+cd cifar
+git+https://github.com/Cadezzyr/PAINT.git``` 
 
