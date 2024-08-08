@@ -1,4 +1,4 @@
-# PAINT:Dynamic Prompt Allocation and Tuning for Continual Test-Time Adaptation #
+# 😋PAINT:Dynamic Prompt Allocation and Tuning for Continual Test-Time Adaptation #
 The code of Dynamic Prompt Allocation and Tuning for Continual Test-Time Adaptation
 
 
