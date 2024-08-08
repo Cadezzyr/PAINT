@@ -20,9 +20,21 @@ Compare this with the following methods
 
 ## Install ##
 ```git+https://github.com/Cadezzyr/PAINT.git```  
-## Test on CIFAR10 -> CIFAR10C tasks  ##
+## Test on CIFAR10 -> CIFAR10C tasks (standard/gradual/shuffle) ##
 ```
 cd cifar
-git+https://github.com/Cadezzyr/PAINT.git
-``` 
+python test_cifar10.py
+python test_cifar10_gradual.py
+python test_cifar10_shuffle.py
+```
+## Test on ImageNet -> ImageNetC tasks (standard) ##
+```
+cd imagenet
+python test_imagenet.py
+```
+## Test on ImageNet -> ImageNetR tasks (standard) ##
+```
+cd imagenet
+python test_imagenet-r-200classes.py
+```
 
