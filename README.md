@@ -1,6 +1,7 @@
 # PAINT
 The code of Dynamic Prompt Allocation and Tuning for Continual Test-Time Adaptation
 abstract 
+
 Continual test-time adaptation (CTTA) has recently emerged
 to adapt a pre-trained source model to continuously evolving
 target distributions, which accommodates the dynamic nature of real-world environments. To address the potential issue of catastrophic forgetting in CTTA, existing methods typically incorporate explicit regularization terms to constrain
