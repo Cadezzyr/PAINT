@@ -19,5 +19,5 @@ Compare this with the following methods
 + PAINT
 
 ## Install ##
-`git+https://github.com/Cadezzyr/PAINT.git`  
+'''git+https://github.com/Cadezzyr/PAINT.git'''  
 
