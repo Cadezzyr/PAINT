@@ -37,5 +37,5 @@ python test_imagenet.py
 cd imagenet
 python test_imagenet-r-200classes.py
 ```
-##  on ImageNet -> ImageNetC tasks (standard) ##
+## PAINT results on ImageNet -> ImageNetC tasks (standard) ##
 
