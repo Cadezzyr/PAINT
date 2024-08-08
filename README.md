@@ -10,6 +10,14 @@ on the following tasks
 + ImageNet -> ImageNetC(standard)
 + ImageNet -> ImageNetR(standard)
 
+Compare this with the following methods
++ CoTTA
++ ETA
++ CPL
++ RMT
++ SAR
++ PAINT
+
 ## Install ##
 `git+https://github.com/Cadezzyr/PAINT.git`  
 
