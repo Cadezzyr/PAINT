@@ -37,5 +37,8 @@ python test_imagenet.py
 cd imagenet
 python test_imagenet-r-200classes.py
 ```
-## PAINT results on ImageNet -> ImageNetC tasks (standard) ##
+## PAINT in Anti-Forgetting Performance ##
+![image](https://github.com/Cadezzyr/PAINT/blob/main/pic/antiforget_source_00.png)
+![image](https://github.com/Cadezzyr/PAINT/blob/main/pic/antiforget_previous_00.png)
+
 
