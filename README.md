@@ -37,8 +37,8 @@ python test_imagenet.py
 cd imagenet
 python test_imagenet-r-200classes.py
 ```
-## PAINT in Anti-Forgetting Performance (CIFAR10 -> CIFAR10C) ##
-![image](https://github.com/Cadezzyr/PAINT/blob/main/pic/antiforget_source_00.png)
-![image](https://github.com/Cadezzyr/PAINT/blob/main/pic/antiforget_previous_00.png)
+## PAINT in Anti-Forgetting Performance (ImageNet -> ImageNetC and ImageNet -> ImageNetR ) ##
+![image](https://github.com/Cadezzyr/PAINT/blob/main/pic/antiforget_source_c_00.png)
+![image](https://github.com/Cadezzyr/PAINT/blob/main/pic/antiforget_source_r_00.png)
 
 
