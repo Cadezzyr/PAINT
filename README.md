@@ -32,7 +32,7 @@ cd imagenet
 python test_imagenet.py
 ```
 ## Test on ImageNet -> ImageNetR tasks (Standard) ##
-The matching score threshold η and prediction confidence threshold ϕ were set to 0.2 and 0.6
+The matching score threshold η and prediction confidence threshold ϕ were set to 0.2 and 0.8
 ```
 cd imagenet
 python test_imagenet-r-200classes.py
