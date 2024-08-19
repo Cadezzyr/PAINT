@@ -18,21 +18,18 @@ Compare this with the following methods 🌈
 
 ## Install ##
 ```git clone https://github.com/Cadezzyr/PAINT.git```  
-## Test on CIFAR10 -> CIFAR10C tasks (Standard/Gradual) ##
-The matching score threshold η and prediction confidence threshold ϕ were set to 0.5 and 0.7
+## Test on CIFAR10 -> CIFAR10-C tasks (Standard/Gradual) ##
 ```
 cd cifar
 python test_cifar10.py
 python test_cifar10_gradual.py
 ```
-## Test on ImageNet -> ImageNetC tasks (Standard) ##
-The matching score threshold η and prediction confidence threshold ϕ were set to 0.2 and 0.6
+## Test on ImageNet -> ImageNet-C tasks (Standard) ##
 ```
 cd imagenet
 python test_imagenet.py
 ```
-## Test on ImageNet -> ImageNetR tasks (Standard) ##
-The matching score threshold η and prediction confidence threshold ϕ were set to 0.2 and 0.8
+## Test on ImageNet -> ImageNet-R tasks (Standard) ##
 ```
 cd imagenet
 python test_imagenet-r-200classes.py
