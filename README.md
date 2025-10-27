@@ -42,6 +42,8 @@ python test_imagenet-r-200classes.py
 
 ## Cite this article ##
 ```
-Cui, C., Zhen, Y., Gong, S. et al. Dynamic prompt allocation and tuning for continual test-time adaptation. Sci. China Inf. Sci. 68, 160109 (2025). https://doi.org/10.1007/s11432-024-4379-8
+Cui, C., Zhen, Y., Gong, S. et al. Dynamic prompt allocation and tuning for continual test-time adaptation.
+Sci. China Inf. Sci. 68, 160109 (2025).
+https://doi.org/10.1007/s11432-024-4379-8
 ```
 
